@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-node-azure-pack",
+        "bridgecrew.checkov",
+        "streetsidesoftware.code-spell-checker",
+        "github.vscode-github-actions",
+        "znck.grammarly",
+        "hashicorp.terraform",
+        "pkief.material-icon-theme",
+        "pkief.material-product-icons",
+        "ms-vscode.powershell",
+        "esbenp.prettier-vscode",
+        "azapi-vscode.azapi",
+        "redhat.vscode-yaml",
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    // Built-in Settings
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.tabCompletion": "on",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.editor.wrapTabs": true,
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.view.alwaysShowHeaderActions": true,
+    // Azure Functions Settings
+    "azureFunctions.showProjectWarning": false,
+    // Code Spell Checker Settings
+    "cSpell.enableFiletypes": [
+        "powershell"
+    ],
+    "cSpell.language": "en,en-US",
+    "cSpell.words": [
+        "Terratest",
+        "armresources",
+        "azcore",
+        "azidentity",
+        "eastus",
+        "Fatalf",
+        "Getenv",
+        "gruntwork",
+        "linenums",
+        "PCPA",
+        "resourcemanager",
+        "Sprintf",
+        "stretchr",
+        "tfvars",
+        "Grammerly"
+    ],
+    // Go Settings
+    "go.toolsManagement.autoUpdate": true,
+    // Grammerly Settings
+    "grammarly.config.suggestions.ConjunctionAtStartOfSentence": true,
+    "grammarly.config.documentDialect": "american",
+    "grammarly.config.suggestions.OxfordComma": true,
+    "grammarly.config.suggestions.StylisticFragments": true,
+    "grammarly.files.include": [
+        "**/readme.md",
+        "**/README.md",
+        "**/*.txt",
+        "**/*.md"
+    ],
+    // Powershell Settings
+    "powershell.promptToUpdatePowerShell": false,
+    // Prettier Configuration
+    "prettier.useEditorConfig": false,
+    // Terraform AzAPI Provider Settings
+    "azapi.languageServer": {
+        "external": true,
+        "pathToBinary": "",
+        "args": [
+            "serve"
+        ],
+        "trace.server": "off"
+    },
+    //YAML Settings
+    "yaml.format.enable": false,
+    "redhat.telemetry.enabled": false,
+    // Language Specific Settings
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 4
+    },
+}
