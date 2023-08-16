@@ -4,7 +4,7 @@
     "editor.formatOnPaste": true,
     "editor.tabCompletion": "on",
     "terminal.integrated.enableMultiLinePasteWarning": false,
-    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.colorTheme": "One Dark Pro Mix",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.productIconTheme": "material-product-icons",
     "workbench.editor.wrapTabs": true,
@@ -75,4 +75,5 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.tabSize": 4
     },
+    "terraform.codelens.referenceCount": true,
 }
