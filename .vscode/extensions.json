@@ -1,7 +1,6 @@
 {
     "recommendations": [
         "ms-vscode.vscode-node-azure-pack",
-        "bridgecrew.checkov",
         "streetsidesoftware.code-spell-checker",
         "github.vscode-github-actions",
         "hashicorp.terraform",
